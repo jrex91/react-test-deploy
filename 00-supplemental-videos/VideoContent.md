@@ -9,3 +9,9 @@ The below walk-through videos and homework solution videos are an extremely help
 [Complete Playlist (Exercises)](https://www.youtube.com/playlist?list=PLgJ8UgkiorClK-ZG5jYqbdgOD2DRHROkT)
 
 - - -
+
+### [Unit 2 - CSS and Bootstrap](01-Class-Content/02-css-bootstrap/02-Homework)
+
+[Complete Playlist (Exercises)](https://www.youtube.com/playlist?list=PLgJ8UgkiorCkLBEm5V0IzuhjdWBeKvrOC)
+
+- - -
