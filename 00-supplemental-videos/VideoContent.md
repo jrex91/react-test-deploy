@@ -24,10 +24,18 @@ The below walk-through videos and homework solution videos are an extremely help
 
 [Complete Playlist (Exercises)](https://www.youtube.com/playlist?list=PLgJ8UgkiorCmEChEWfh7sxPvQwYAx3Kt0)
 
+[Homework Solution Video](https://youtu.be/cgdmOR15cn4)
+
 - - -
 
 ### [Unit 4 - Intro to jQuery](01-Class-Content/04-jquery/02-Homework)
 
 [Complete Playlist (Exercises)](https://www.youtube.com/playlist?list=PLgJ8UgkiorCn05TQ1Ui8_lTnhizYcEFX7)
+
+- - -
+
+### [Unit 5 - JS Timers, Review, and Trivia](01-Class-Content/05-timers/02-Homework)
+
+[Complete Playlist (Exercises)](https://www.youtube.com/playlist?list=PLgJ8UgkiorCncwPdhG7Z7A2HOAKcnmIQr)
 
 - - -
