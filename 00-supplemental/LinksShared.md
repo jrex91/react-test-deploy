@@ -153,4 +153,4 @@ Links that we occasionally share in slack and most likely will forget. Pull requ
 
 [Why coding and kindness go hand in hand, and how I learned to be kind to myself](https://medium.freecodecamp.org/coding-kindness-41e6cf3d5f83)
 
-[https://www.reddit.com/r/webdev/comments/ap48kn/juniors_whats_actually_expected_of_you_in_your_job/](https://www.reddit.com/r/webdev/comments/ap48kn/juniors_whats_actually_expected_of_you_in_your_job/)
+[Juniors - what's actually expected of you in your job?](https://www.reddit.com/r/webdev/comments/ap48kn/juniors_whats_actually_expected_of_you_in_your_job/)
