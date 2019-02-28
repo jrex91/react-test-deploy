@@ -8,8 +8,8 @@ Links that we occasionally share in slack and most likely will forget. Pull requ
 
 [Rainbow Brackets - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=2gua.rainbow-brackets)
 
-[Bootstrap 4, Font awesome 4, Font Awesome 5 Free & Pro snippets - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?
-itemName=thekalinga.bootstrap4-vscode)
+[Bootstrap 4, Font awesome 4, Font Awesome 5 Free & Pro snippets - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=thekalinga.bootstrap4-vscode)
+
 [Bracket Pair Colorizer - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
 
 [Emmet in Visual Studio Code](https://code.visualstudio.com/docs/editor/emmet)
@@ -92,8 +92,8 @@ itemName=thekalinga.bootstrap4-vscode)
 
 [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)
 
-[Understand JavaScript's "this" With Clarity, and Master It](http://javascriptissexy.com/understand-javascripts-this-with-clarity-and-master-it/
-)
+[Understand JavaScript's "this" With Clarity, and Master It](http://javascriptissexy.com/understand-javascripts-this-with-clarity-and-master-it/)
+
 [JavaScript Quickie— Dot Notation vs. Bracket Notation](https://codeburst.io/javascript-quickie-dot-notation-vs-bracket-notation-333641c0f781)
 
 [JavaScript Array Methods](https://www.w3schools.com/js/js_array_methods.asp)
@@ -104,8 +104,8 @@ itemName=thekalinga.bootstrap4-vscode)
 
 [Introduction to Events | MDN](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Events)
 
-[What is Hoisting in Javascript? – JavaScript In Plain English](https://medium.com/javascript-in-plain-english/
-https-medium-com-javascript-in-plain-english-what-is-hoisting-in-javascript-a63c1b2267a1)
+[What is Hoisting in Javascript? – JavaScript In Plain English](https://medium.com/javascript-in-plain-english/https-medium-com-javascript-in-plain-english-what-is-hoisting-in-javascript-a63c1b2267a1)
+
 [Hoisting MDN](https://developer.mozilla.org/en-US/docs/Glossary/Hoisting)
 
 [Hoisting W3](https://www.w3schools.com/js/js_hoisting.asp)
@@ -145,13 +145,12 @@ https-medium-com-javascript-in-plain-english-what-is-hoisting-in-javascript-a63c
 
 [File paths](https://css-tricks.com/quick-reminder-about-file-paths/)
 
-[Leveling Up: How Nikki Bellock’s Commitment to Learning Landed Her an Exciting Promotion](https://www.trilogyed.com/blog/
-leveling-up-how-nikki-bellocks-commitment-to-learning-landed-her-an-exciting-promotion/)
+[Leveling Up: How Nikki Bellock’s Commitment to Learning Landed Her an Exciting Promotion](https://www.trilogyed.com/blog/leveling-up-how-nikki-bellocks-commitment-to-learning-landed-her-an-exciting-promotion/)
+
 [10 Ways Secure Leaders Differ from Insecure "Leaders"](https://www.linkedin.com/pulse/10-ways-secure-leaders-differ-from-insecure-mack/)
 
-[The Insidious Lies of Imposter Syndrome – Nic Laughter – Medium](https://medium.com/@nictheawesome/
-the-insidious-lies-of-imposter-syndrome-91c20bc1bd08)
+[The Insidious Lies of Imposter Syndrome – Nic Laughter – Medium](https://medium.com/@nictheawesome/the-insidious-lies-of-imposter-syndrome-91c20bc1bd08)
+
 [Why coding and kindness go hand in hand, and how I learned to be kind to myself](https://medium.freecodecamp.org/coding-kindness-41e6cf3d5f83)
 
-[https://www.reddit.com/r/webdev/comments/ap48kn/juniors_whats_actually_expected_of_you_in_your_job/](https://www.reddit.com/r/webdev/comments/
-ap48kn/juniors_whats_actually_expected_of_you_in_your_job/)
+[https://www.reddit.com/r/webdev/comments/ap48kn/juniors_whats_actually_expected_of_you_in_your_job/](https://www.reddit.com/r/webdev/comments/ap48kn/juniors_whats_actually_expected_of_you_in_your_job/)
