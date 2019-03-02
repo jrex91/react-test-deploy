@@ -79,6 +79,9 @@ Links that we occasionally share in slack and most likely will forget. Pull requ
 
 [Flexbox Froggy](https://flexboxfroggy.com/)
 
+[VIDEO: Bootstrap 4 Grid System Explained!](https://www.youtube.com/watch?v=VaW4na2qkwQ)
+
+[VIDEO: Bootstrap tutorial 4 - The bootstrap grid explained](https://www.youtube.com/watch?v=g3LRU3JF-rQ)
 
 - - -
 
@@ -96,13 +99,44 @@ Links that we occasionally share in slack and most likely will forget. Pull requ
 
 [JavaScript Quickie— Dot Notation vs. Bracket Notation](https://codeburst.io/javascript-quickie-dot-notation-vs-bracket-notation-333641c0f781)
 
-[JavaScript Array Methods](https://www.w3schools.com/js/js_array_methods.asp)
-
 [JavaScript String Methods](https://www.w3schools.com/js/js_string_methods.asp)
 
 [Events](https://www.w3schools.com/js/js_events.asp)
 
 [Introduction to Events | MDN](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Events)
+
+[JavaScript Constructors](https://www.w3schools.com/js/js_object_constructors.asp)
+
+[Video: Part 1: An Introduction to How JavaScript Runs Code](https://www.youtube.com/watch?v=Z6a1cLyq7Ac&list=PLWrQZnG8l0E4kd1T_nyuVoxQUaYEWFgcD)
+
+[Video: Part 1: An Introduction to Callbacks and Higher Order Functions in JavaScript Functional Programming](https://www.youtube.com/watch?v=7E8ctomPQJw&list=PLWrQZnG8l0E5xUUZQ6d6fWQ0hRECcsy-H)
+
+[JS Visualize Execution](http://pythontutor.com/visualize.html#mode=edit)
+(great visualization tool for watching how javascript runs your code line by line make sure in the dropdown you select JavaScript es6)
+
+##### Arrays
+
+[JavaScript Array Methods W3](https://www.w3schools.com/js/js_array_methods.asp)
+
+[Arrays W3](https://www.w3schools.com/js/js_arrays.asp)
+
+[Video: How to Create Arrays in JavaScript](https://www.youtube.com/watch?v=r4vyq8vvVY0&index=12&list=PL0eyrZgxdwhxNGMWROnaY35NLyEjTqcgB)
+
+[Video: Beginner JavaScript Tutorial - 28 - Arrays](https://www.youtube.com/watch?v=nEvBcwlpkBQ)
+
+##### Functions
+
+[JavaScript Functions — Understanding The Basics](https://codeburst.io/javascript-functions-understanding-the-basics-207dbf42ed99)
+
+[JavaScript Functions W3](https://www.w3schools.com/js/js_functions.asp)
+
+[Video: JavaScript Tutorial For Beginners #20 - Functions](https://www.youtube.com/watch?v=KH57lIgwe2g)
+
+[Beginner JavaScript Tutorial - 6 - Functions](https://www.youtube.com/watch?v=5nuqALOHN1M)
+
+##### Scope & Hoisting
+
+[JavaScript: A Basic Guide to Scope](https://codeburst.io/javascript-a-basic-guide-to-scope-9682d57be6fc)
 
 [What is Hoisting in Javascript? – JavaScript In Plain English](https://medium.com/javascript-in-plain-english/https-medium-com-javascript-in-plain-english-what-is-hoisting-in-javascript-a63c1b2267a1)
 
@@ -112,22 +146,54 @@ Links that we occasionally share in slack and most likely will forget. Pull requ
 
 [Understanding Scope in JavaScript](https://scotch.io/tutorials/understanding-scope-in-javascript)
 
-[JavaScript Constructors](https://www.w3schools.com/js/js_object_constructors.asp)
+[JavaScript Variable Scope and Hoisting Explained](http://javascriptissexy.com/javascript-variable-scope-and-hoisting-explained/)
 
+[Video: Javascript Scope Tutorial - What Makes Javascript Weird...and Awesome Pt 4](https://www.youtube.com/watch?v=SBwoFkRjZvE)
+
+[Video: JavaScript Scopes | Local Scope and Global Scope in JavaScript | JavaScript Tutorial](https://www.youtube.com/watch?v=hTU1OSbnov8)
+
+##### Objects
+
+[JavaScript Objects W3](https://www.w3schools.com/js/js_objects.asp)
+
+[Video: 21: What Are Objects in JavaScript | How to Create an Object in JavaScript | JavaScript Tutorial](https://www.youtube.com/watch?v=4uVwGw317QM)
+
+[Object methods W3](https://www.w3schools.com/js/js_object_methods.asp)
+
+##### For loops
+
+[JavaScript Tutorial For Beginners #17 - For Loops](https://www.youtube.com/watch?v=U87UmD-5h4o)
+(He says you don't need the var declaration in your `for` loop, but you should always have it. It can cause major problems in your code if you don't)
+
+[JavaScript For Loops Explained with Animated Scuba Divers](https://blog.codeanalogies.com/2017/11/07/javascript-for-loops-explained/)
+
+[Beginner JavaScript Tutorial - 19 - for Loop](https://www.youtube.com/watch?v=Coxgr66EwRk)
+(older vid but still decent) 
+
+
+##### Timers
+
+[JavaScript Timers: Everything you need to know](https://medium.freecodecamp.org/javascript-timers-everything-you-need-to-know-5f31eaa37162)
+
+##### This keyword
+
+[JS This keyword W3](https://www.w3schools.com/js/js_this.asp)
+
+[Understand JavaScript's "this" With Clarity, and Master It](http://javascriptissexy.com/understand-javascripts-this-with-clarity-and-master-it/)
+
+[WTF is THIS: Understanding the "this" keyword in JavaScript](https://www.youtube.com/watch?v=zE9iro4r918)
+
+##### Video tutorial series
+
+[JavaScript Tutorials](https://www.youtube.com/watch?v=ItYye9h_RXg&list=PL0eyrZgxdwhxNGMWROnaY35NLyEjTqcgB)
+
+[JavaScript Tutorials for Beginners](https://www.youtube.com/watch?v=qoSksQ4s_hg&list=PL4cUxeGkcC9i9Ae2D9Ee1RvylH38dKuET)
 
 - - -
 
 ### JQUERY
 
 [Jquery Docs](http://api.jquery.com/)
-
-
-- - -
-
-### TIMERS
-
-[JavaScript Timers: Everything you need to know](https://medium.freecodecamp.org/javascript-timers-everything-you-need-to-know-5f31eaa37162)
-
 
 - - -
 
@@ -154,3 +220,5 @@ Links that we occasionally share in slack and most likely will forget. Pull requ
 [Why coding and kindness go hand in hand, and how I learned to be kind to myself](https://medium.freecodecamp.org/coding-kindness-41e6cf3d5f83)
 
 [Juniors - what's actually expected of you in your job?](https://www.reddit.com/r/webdev/comments/ap48kn/juniors_whats_actually_expected_of_you_in_your_job/)
+
+[The One Uncomfortable Feeling You Must Experience In Order To Be Successful](https://www.forbes.com/sites/briannawiest/2018/05/21/the-one-uncomfortable-feeling-you-must-experience-in-order-to-be-successful/#7d715e975329)
