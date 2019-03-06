@@ -32,10 +32,22 @@ The below walk-through videos and homework solution videos are an extremely help
 
 [Complete Playlist (Exercises)](https://www.youtube.com/playlist?list=PLgJ8UgkiorCn05TQ1Ui8_lTnhizYcEFX7)
 
+[Homework Solution Video](https://youtu.be/ki36iUBbCDY)
+
 - - -
 
 ### [Unit 5 - JS Timers, Review, and Trivia](01-Class-Content/05-timers/02-Homework)
 
 [Complete Playlist (Exercises)](https://www.youtube.com/playlist?list=PLgJ8UgkiorCncwPdhG7Z7A2HOAKcnmIQr)
+
+[Homework Solution Video (Easy)](https://www.youtube.com/watch?v=3eWhkc_u5rE&index=6&list=PLgJ8UgkiorClJwRrLq8f9QuzgTflJoeH2)
+
+- - -
+
+### [Unit 6 - Intro to APIs and AJAX](01-Class-Content/06-ajax/02-Homework)
+
+[Complete Playlist (Exercises)](https://www.youtube.com/playlist?list=PLgJ8UgkiorCmRwLl7YKfFxmNySuAhNdmC)
+
+[Complete NYT Solution Video](https://www.youtube.com/watch?v=PDD8NV3sbZo)
 
 - - -
