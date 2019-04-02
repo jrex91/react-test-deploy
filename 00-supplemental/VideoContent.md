@@ -42,6 +42,8 @@ The below walk-through videos and homework solution videos are an extremely help
 
 [Homework Solution Video (Easy)](https://www.youtube.com/watch?v=3eWhkc_u5rE&index=6&list=PLgJ8UgkiorClJwRrLq8f9QuzgTflJoeH2)
 
+[Homework Solution Video (Advanced)](https://youtu.be/KndV7UxLpnk)
+
 - - -
 
 ### [Unit 6 - Intro to APIs and AJAX](01-Class-Content/06-ajax/02-Homework)
@@ -50,4 +52,25 @@ The below walk-through videos and homework solution videos are an extremely help
 
 [Complete NYT Solution Video](https://www.youtube.com/watch?v=PDD8NV3sbZo)
 
+[Homework Solution Video](https://www.youtube.com/watch?v=V67yKAonLa4&list=PLgJ8UgkiorClJwRrLq8f9QuzgTflJoeH2&index=8)
+
 - - -
+
+### [Unit 7 - Intro to Local Storage and Firebase](01-Class-Content/07-firebase/02-Homework)
+
+[Complete Playlist (Exercises)](https://www.youtube.com/playlist?list=PLgJ8UgkiorCkg74BLGZkgtJsRDQX51YbU)
+
+[Homework Solution Video](https://www.youtube.com/watch?v=Dz5iKzwHi0k&index=9)
+
+- - -
+
+### Unit 9 - API Project Week 2 + Interview/Debug
+
+[Complete Playlist (Exercises)](https://www.youtube.com/playlist?list=PLgJ8UgkiorClkfaUS1W52Sr7-TqlOEDYU)
+
+- - -
+
+### [Unit 10 - Intro to Node.JS](01-Class-Content/10-nodejs/02-Homework)
+
+[Complete Playlist (Exercises)](https://www.youtube.com/playlist?list=PLgJ8UgkiorCnevQjLViL_kxpU30eIJFu7)
+
