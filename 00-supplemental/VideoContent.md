@@ -74,3 +74,11 @@ The below walk-through videos and homework solution videos are an extremely help
 
 [Complete Playlist (Exercises)](https://www.youtube.com/playlist?list=PLgJ8UgkiorCnevQjLViL_kxpU30eIJFu7)
 
+
+- - -
+
+### [Unit 11 - Constructors](01-Class-Content/11-js-constructors/02-Homework)
+
+[Complete Playlist (Exercises)](https://www.youtube.com/playlist?list=PLgJ8UgkiorClIZdJL_PasNdUR0yWjBCBP)
+
+- - -
